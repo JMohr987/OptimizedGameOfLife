@@ -4,14 +4,14 @@ dotnet build
 dotnet run --project src/GameOfLife.Console/GameOfLife.Console.csproj --graphics --input [filename]
 ```
 ## Running Notes
-Both --graphics and --input are optional
---graphics must be put before --input flag
-Run from the assginment's directory, not any of the subdirectories
+Both --graphics and --input are optional.
+--graphics must be put before --input flag.
+Run from the assginment's directory, not any of the subdirectories.
 
 ## Input File
-Put the input file in the data directory
-File name is just the file's name, not the path
-Output file will be put in the data directory
+Put the input file in the data directory.
+File name is just the file's name, not the path.
+Output file will be put in the data directory.
 
 ## Rules
 1. Underpopulation: Any cell with fewer than two neighbors dies
@@ -21,15 +21,15 @@ Output file will be put in the data directory
 
 ## How To Play
 Create an input file with the following format
-grid_width,grid_height
-Number_of_generations
-Number_of_live_cells
-cell1_x,cell1_y
-cell2_x,cell2_y
-cell3_x,cell3_y
-...
-cellN_x,cellN_y
+1. grid_width,grid_height
+2. Number_of_generations
+3. Number_of_live_cells
+4. cell1_x,cell1_y
+5. cell2_x,cell2_y
+6. cell3_x,cell3_y
+7. ...
+N. cellN_x,cellN_y
 
 ## Tiles
-Dead: "."
-Alive: "#"
+1. Dead: "."
+2. Alive: "#"
