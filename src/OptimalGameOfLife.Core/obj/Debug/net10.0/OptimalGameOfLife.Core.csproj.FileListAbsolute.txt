@@ -1,0 +1,11 @@
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.AssemblyInfoInputs.cache
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.AssemblyInfo.cs
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.csproj.CoreCompileInputs.cache
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/bin/Debug/net10.0/OptimalGameOfLife.Core.deps.json
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/bin/Debug/net10.0/OptimalGameOfLife.Core.dll
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/bin/Debug/net10.0/OptimalGameOfLife.Core.pdb
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.dll
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/refint/OptimalGameOfLife.Core.dll
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/OptimalGameOfLife.Core.pdb
+/Users/JackieMohr/programmingDirs/C#/DSA/OptimalGameOfLife/src/OptimalGameOfLife.Core/obj/Debug/net10.0/ref/OptimalGameOfLife.Core.dll

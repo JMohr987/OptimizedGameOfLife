@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OptimalGameOfLife.Console/OptimalGameOfLife.Console.csproj" />
+    <Project Path="src/OptimalGameOfLife.Core/OptimalGameOfLife.Core.csproj" />
+    <Project Path="src/OptimalGameOfLife.Tests/OptimalGameOfLife.Tests.csproj" />
+  </Folder>
+</Solution>
