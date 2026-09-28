@@ -1,17 +1,17 @@
 ### Build and run
 ```bash
 dotnet build
-dotnet run --project src/GameOfLife.Console/GameOfLife.Console.csproj --graphics --input [filename]
+dotnet run --project src/OptimizedGameOfLife.Console/OptimizedGameOfLife.Console.csproj --graphics --input [filename]
 ```
 ## Running Notes
-Both --graphics and --input are optional.
---graphics must be put before --input flag.
-Run from the assginment's directory, not any of the subdirectories.
+1. Both --graphics and --input are optional.
+2. --graphics must be put before --input flag.
+3. Run from the assginment's directory, not any of the subdirectories.
 
 ## Input File
-Put the input file in the data directory.
-File name is just the file's name, not the path.
-Output file will be put in the data directory.
+1. Put the input file in the data directory.
+2. File name is just the file's name, not the path.
+3. Output file will be put in the data directory.
 
 ## Rules
 1. Underpopulation: Any cell with fewer than two neighbors dies
@@ -28,7 +28,7 @@ Create an input file with the following format
 5. cell2_x,cell2_y
 6. cell3_x,cell3_y
 7. ...
-N. cellN_x,cellN_y
+8. cellN_x,cellN_y
 
 ## Tiles
 1. Dead: "."
